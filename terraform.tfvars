@@ -1,4 +1,4 @@
-project_id = "qwiklabs-gcp-00-37cfafcb9923"
+project_id = "qwiklabs-gcp-03-88f209db77e2"
 vmname = "mynet-us-vm"
 machine_type = "e2-micro"
 region = "us-central1"
